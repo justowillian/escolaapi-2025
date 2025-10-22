@@ -47,7 +47,7 @@ Clicar no link localhost para executar, semelhante a este http://localhost:5173/
 ![Screenshot 04](./docs/img4.png)
 ![Screenshot 05](./docs/img5.png)
 ![Screenshot 06](./docs/img6.png)
-![Screenshot 06](./docs/dcu)
+![Screenshot 06](./docs/dcu.png)
 
 
 
